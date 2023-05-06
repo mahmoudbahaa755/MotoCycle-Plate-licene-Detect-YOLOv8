@@ -1,5 +1,5 @@
 Motorcycle License Plate Detection using YOLOv8
-This is a repository for training and deploying a YOLOv8 object detection model for detecting motorcycle license plates in images. The model is trained on a custom dataset of motorcycle license plates and uses the PyTorch deep learning framework.
+This is a repository for training and deploying a YOLOv8 object detection model for detecting motorcycle license plates in images. The model is trained on a custom dataset of motorcycle license plates
 
 Dataset
 The custom dataset used for training the model consists of images of motorcycles with license plates. The images are annotated using the YOLO format, with each annotation containing the coordinates of the license plate region in the image.
